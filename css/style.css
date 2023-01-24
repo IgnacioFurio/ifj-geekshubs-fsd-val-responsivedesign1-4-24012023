@@ -1,0 +1,28 @@
+body{
+    background-image: url(../assets/wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box-c{
+    height: 100vh;
+}
+
+    .box1{
+        height: 15vh;
+    }
+    .box2{
+        height: 5vh;
+    }
+    .box3{
+        height: 10vh;
+    }
+    .box4{
+        background-color: brown;
+        height: 55vh;
+    }
+    .box5{
+        height: 5vh;
+    }
+    .box6{
+        height: 10vh;
+    }
